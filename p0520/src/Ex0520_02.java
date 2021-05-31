@@ -12,9 +12,9 @@ public class Ex0520_02 {
 		//
 
 	}
-	static void change(Data d) {
-		d.x = 250;
-		System.out.println("change x :"+d.x);
+	static void change(Data c) {
+		c.x = 250;
+		System.out.println("change x :"+c.x);
 	}
 
 }
